@@ -1,2 +1,2 @@
 [all]
-172.31.30.75 ansible_ssh_pass=vagrant ansible_ssh_user=vagrant
+172.31.30.75
